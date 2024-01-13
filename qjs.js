@@ -1,31 +1,3 @@
-let questions = [
-
-{
-
-id: 2,
-
-question: `<img scr="2.jpg"/>`,
-
-answer: "ب",
-
-options: ["د","ج","ب","ا"]
-
-},
-{
-
-id: 2,
-
-question: `<img scr="2.jpg"/>`,
-
-answer: "ب",
-
-options: ["د","ج","ب","ا"]
-
-}
-
-];
-
-
 let question_count = 0;
 
 let points = 0;
