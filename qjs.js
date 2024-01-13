@@ -226,11 +226,11 @@ boto.innerHTML += `<span class="h22"><span id="qu"> إجابة السؤال رق
 
 <dl class="nft">
 
-<li><a href="https://www.facebook.com"><img src='icon(1).png'/></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=61550724900793"><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMCWWB71tSVFJ9-j22kuaShNWSwBUsewI61lw0A6eWN3puhlEbapRcbAAOdrJGneeOAbc9T6-Rv9s-KchwaBCfJwVvSCZo1IAVo426a13oL4tFvMM15yAoYG1ChWr_jIezEWW9k_v6dgdneA-BjnxYN-a1hID9GbscWJa7qMZvUfpwBe4olQDOxo-6R94N/s320/icon%281%29.png'/></a></li>
 
 <li style="color:#fff">👈تابعنا على👉</li>
 
-<li><a href="https://t.me/thanawy_2024"><img id="tjpgn" src="ic_launcher.png" style="width:60px"></a></li>
+<li><a href="https://t.me/thanawey_2024"><img id="tjpgn" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsqqHUNx6aNNOvVEgN3o7_yn3ziQyt-r9IQ53vZyo7M9l7nx6UdS2FI7IxZx14Eqpm2kp9CX6w508HOrR9bUITmZkVJAuoSiph8OorVdRjj28UleW22cLUMW-JKgglYA8lJVQP4jr_HlGr8RysgeFlwB8lqanU2vnNI7b3MmxXd6gtLwBAB9s7qQ5yDon/s320/ic_launcher.png" style="width:60px"></a></li>
 
 </dl>`
 
@@ -251,11 +251,11 @@ boto.innerHTML += `<span class="h22"><span id="qu"> إجابة السؤال رق
 
 <dl class="nft">
 
-<li><a href="https://www.facebook.com"><img src='icon(1).png'/></a></li>
+<li><a href="https://www.facebook.com/profile.php?id=61550724900793"><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMCWWB71tSVFJ9-j22kuaShNWSwBUsewI61lw0A6eWN3puhlEbapRcbAAOdrJGneeOAbc9T6-Rv9s-KchwaBCfJwVvSCZo1IAVo426a13oL4tFvMM15yAoYG1ChWr_jIezEWW9k_v6dgdneA-BjnxYN-a1hID9GbscWJa7qMZvUfpwBe4olQDOxo-6R94N/s320/icon%281%29.png'/></a></li>
 
 <li style="color:#fff">👈تابعنا على👉</li>
 
-<li><a href="https://t.me/thanawy_2024"><img id="tjpgn" src="ic_launcher.png" style="width:60px"></a></li>
+<li><a href="https://t.me/thanawey_2024"><img id="tjpgn" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsqqHUNx6aNNOvVEgN3o7_yn3ziQyt-r9IQ53vZyo7M9l7nx6UdS2FI7IxZx14Eqpm2kp9CX6w508HOrR9bUITmZkVJAuoSiph8OorVdRjj28UleW22cLUMW-JKgglYA8lJVQP4jr_HlGr8RysgeFlwB8lqanU2vnNI7b3MmxXd6gtLwBAB9s7qQ5yDon/s320/ic_launcher.png" style="width:60px"></a></li>
 
 </dl>`;
 
@@ -283,6 +283,6 @@ poi.innerHTML += `درجتك يا <span id="pn">${namee}</span> هى : <span id=
 
 <span id="endp"> 👇متنساش تصلى على النبى وتشترك بقناة التليجرام 👇 </span> <br>
 
-<span id="etel"><a href="https://t.me/thanawy_2024"><img id="tjpg" src="ic_launcher.png" style="width:100px"></a>`
+<span id="etel"><a href="https://t.me/thanawey_2024"><img id="tjpg"  style="width:100px"></a>`
 
 }
