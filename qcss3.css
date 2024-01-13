@@ -109,7 +109,7 @@ padding: 0;
                border : none!important;
                border-radius : none !important;
                margin: 10px 0;
-               
+               margin-top: 20px !important ;
            }
            #h22 img,.h22 img{
                margin-top: 15px ; 
@@ -375,7 +375,7 @@ transform: translateY(-400px);
             }
            #all td{
               background : #362556de;
-              padding: 0px;
+              padding: 10px 20px;
               color: #fff ;
 
               border : 0px solid #341f97 ;
@@ -602,7 +602,7 @@ transform : translateY(-8px);
   display: flex ;
   justify-content: space-between ;
   height :0;
-    transform: translateY(-550px);
+    transform: translateY(-450px);
   
 }
 .afte{
