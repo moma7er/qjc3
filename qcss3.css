@@ -30,7 +30,7 @@
                 background: skyblue ;
                 justify-content: center;
                 align-items: center;
-                height: 100vh;
+                height: 100% !important;
                 width:100vm;
                 text-align: center;
             }
@@ -91,7 +91,7 @@ padding: 0;
             }
             li.option{
                 height: 100px;
-                width: 100%;
+                width: 100px;
                 margin: 4px;
                 color:#000 ;
                 background-color: #fff;
@@ -196,12 +196,12 @@ padding: 0;
                                 border-left :10px solid  blue;
             }
             #questions img{
-                width: 500px;
-                height: 400px;
+                width: 95%;
+                height: 45%;
                 border:dotted 5px #FAFF00;
                 animation: zoomIn;
                 transition: ease;
-                animation-duration: .9s;
+                animation-duration: 1.1s;
                 border-radius: 20px;
                 box-shadow: 0px 10px 4px 10px #F0F70C !important;
             }
@@ -616,7 +616,7 @@ transform : translateY(-8px);
 }
 #all .end{
   height: 50vh;
-  width: 50%;
+  width: 80%;
   background: linear-gradient(#e5c2f8,#5f5858);
   border: 5px solid #2b1515 ;
   border-radius: 5px 50px ;
@@ -631,8 +631,8 @@ transform : translateY(-8px);
   background: linear-gradient(#a47bee,#3d00aa);
   color:#eafeb1;
   font-size: 30px ;
-  height: 100px ;
-  width : 200px ;
+  height: 40% ;
+  width : 90% ;
     border-radius : 0 0 50% 50%;
     text-align: center ;
     justify-content: center ;
@@ -732,7 +732,7 @@ transform : translateY(-8px);
 #tf dl{
     display : flex ;
     text-align: center ;
-    width : 200px ;
+    width : 90% ;
 }
 
 .nft{
