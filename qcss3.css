@@ -76,6 +76,8 @@
                 padding-left: 20px;
             }
             .quiz_body{
+                     width : 100%;
+                     height : 90%;
                 padding: 20px 30px;
                 background-color: #175FE378;
                 display: inline-block ;
@@ -326,7 +328,7 @@ padding: 0;
             width : 100%;
                 color: greenyellow;
                 font-size: 25px;
-transform: translateY(-400px);
+transform: translateY(-60%);
                 animation: flash .7s infinite ;
             }
             #top{
@@ -606,7 +608,8 @@ transform : translateY(-8px);
   display: flex ;
   justify-content: space-between ;
   height :0;
-    transform: translateY(55%);
+    position : absolute ;
+         top: 55%;
   
 }
 .afte{
@@ -619,7 +622,7 @@ transform : translateY(-8px);
   align-items: center ;
 }
 #all .end{
-  height: 50vh;
+  height: 95%;
   width: 80%;
   background: linear-gradient(#e5c2f8,#5f5858);
   border: 5px solid #2b1515 ;
@@ -635,8 +638,8 @@ transform : translateY(-8px);
   background: linear-gradient(#a47bee,#3d00aa);
   color:#eafeb1;
   font-size: 30px ;
-  height: 50% ;
-  width : 90% ;
+  height: 30% ;
+  width : 80% ;
     border-radius : 0 0 50% 50%;
     text-align: center ;
     justify-content: center ;
@@ -744,6 +747,7 @@ transform : translateY(-8px);
 .nft{
     justify-content : space-between ;
     display: flex !important;
+         width : 100%;
 }
    
 #all #tf li a ,#all #start td a,#all .nft li a{
@@ -812,7 +816,7 @@ transform : translateY(-8px);
   color: #fff ;
   background: #302b2b;
   display:inline ;
-  font-size : 30px ;
+  font-size : 25px ;
   border-radius : 50%;
 }
 .pro{
