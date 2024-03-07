@@ -201,7 +201,7 @@ padding: 0;
             }
             #questions img{
                 width: 95%;
-                
+                height : auto ;
                 border:dotted 5px #FAFF00;
                 animation: zoomIn;
                 transition: ease;
@@ -606,7 +606,7 @@ transform : translateY(-8px);
   display: flex ;
   justify-content: space-between ;
   height :0;
-    transform: translateY(-55%);
+    transform: translateY(55%);
   
 }
 .afte{
