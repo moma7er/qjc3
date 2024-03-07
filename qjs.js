@@ -103,7 +103,7 @@ option[i].classList.add("active")
 
 cin++
 
-let b= (cin / questions.length )* 100 ;
+let b= ((cin / questions.length )* 100).toFixed(1);
 
 document.getElementById("file").value+= 10 / questions.length
 
@@ -134,15 +134,15 @@ e = document.querySelector("li.option.active").innerHTML}
 
 if(user_answer == questions[question_count].answer){
 
-points += 2.5;
+points += 2;
 
 cor++;
 
 sessionStorage.setItem("points",points);
 
-nn = questions.length * 2.5;
+nn = questions.length * 2;
 
-nss = (points / nn) * 100;
+nss = ((points / nn) * 100).toFixed(1);
 
 bot.style.background ="#4FFF20";
 
