@@ -103,7 +103,7 @@ option[i].classList.add("active")
 
 cin++
 
-let b= ((cin / questions.length )* 100).toFixed(1);
+let b= ((cin / questions.length )* 100).toFixed(0);
 
 document.getElementById("file").value+= 10 / questions.length
 
