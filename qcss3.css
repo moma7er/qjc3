@@ -92,7 +92,7 @@
             dl.option_group{
                 margin-top: 10px;
 padding: 0;
-                width: 100%;
+                width: 100% !important ;
                 display: inline-flex;
                 list-style-type:  none !important;
             }
@@ -203,7 +203,8 @@ padding: 0;
                                 border-left :10px solid  blue;
             }
             #questions img{
-                
+                     width : 95%;
+                display : flex ;
                 border:dotted 5px #FAFF00;
                 animation: zoomIn;
                 transition: ease;
@@ -608,8 +609,7 @@ transform : translateY(-8px);
   display: flex ;
   justify-content: space-between ;
   height :0;
-    
-         transform : translateY(-55vh);
+transform : translateY(55%);
   
 }
 .afte{
