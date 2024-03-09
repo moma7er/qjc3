@@ -644,9 +644,9 @@ transform : translateY(-50vh);
 }
 .tas,.rest{
   padding: 20px ;
-  background: linear-gradient(#a47bee,#3d00aa);
+  background: linear-gradient(#a47bee,#3d00aa,45deg);
   color:#eafeb1;
-  font-size: 8%;
+  font-size: 12%;
   height: 25% ;
   width : 100% ;
     border-radius : 0 0 50% 50%;
