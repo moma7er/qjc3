@@ -92,11 +92,11 @@
                      text-align : center ;
                      align-items :center ;
             }
-#questions{
-             display : flex ;
+           #questions{
+             display : flex !important ;
                 text-align: center ;
-                justify-content: center ;
-                }
+                justify-content: center ;}
+                
 
             dl.option_group{
                 margin-top: 10px;
@@ -646,7 +646,7 @@ transform : translateY(-50vh);
   padding: 20px ;
   background: linear-gradient(#a47bee,#3d00aa);
   color:#eafeb1;
-  font-size: 25px ;
+  font-size: 8%;
   height: 25% ;
   width : 100% ;
     border-radius : 0 0 50% 50%;
