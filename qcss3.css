@@ -57,8 +57,8 @@
                 height:100%;
                 border-radius:50px;
                 margin-bottom: 0px;
-                text-align: center;
-                justify-content:center                 
+                text-align: center!important ;
+                justify-content:center !important;             
                 
             }
 
@@ -89,7 +89,8 @@
                 display: inline-block ;
                 border-radius:0 0 50px 50px;
                 border: 10px double greenyellow;
-                     text-align : center ;
+                     text-align : center !important ;
+                justify-content : !important ;
                      align-items :center ;
             }
            #questions{
@@ -646,7 +647,7 @@ transform : translateY(-50vh);
   padding: 20px ;
   background: linear-gradient(#a47bee,#3d00aa,45deg);
   color:#eafeb1;
-  font-size: 12%;
+  font-size: 50%;
   height: 25% ;
   width : 100% ;
     border-radius : 0 0 50% 50%;
