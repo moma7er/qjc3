@@ -92,6 +92,11 @@
                      text-align : center ;
                      align-items :center ;
             }
+#questions{
+             
+                text-align: center ;
+                justify-content: center ;
+                }
 
             dl.option_group{
                 margin-top: 10px;
@@ -613,7 +618,7 @@ transform : translateY(-8px);
   display: flex ;
   justify-content: space-between ;
   height :0;
-transform : translateY(-55vh);
+transform : translateY(-50vh);
   
 }
 .afte{
@@ -642,7 +647,7 @@ transform : translateY(-55vh);
   background: linear-gradient(#a47bee,#3d00aa);
   color:#eafeb1;
   font-size: 25px ;
-  height: 30% ;
+  height: 25% ;
   width : 100% ;
     border-radius : 0 0 50% 50%;
     text-align: center ;
